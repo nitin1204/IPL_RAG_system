@@ -5,3 +5,4 @@ langchain-groq
 
 chromadb==0.4.22
 protobuf==3.20.3
+numpy==1.26.4
